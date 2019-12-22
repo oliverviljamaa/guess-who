@@ -1,0 +1,9 @@
+{
+  "name": "guess-who",
+  "version": "0.1.0",
+  "main": "index.js",
+  "repository": "git@github.com:oliverviljamaa/guess-who.git",
+  "author": "Oliver Viljamaa <oliver.viljamaa@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
